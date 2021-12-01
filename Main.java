@@ -15,8 +15,8 @@ public class Main {
 		System.out.println(a.getName());
 		System.out.println(a.getRoll_no());
 // 5		
-//		Average avg=new Average();
-//		System.out.println(avg.avg());
+//		Average average=new Average();
+//		System.out.println(average.avg());
 
 //  6 		
 		Cirlce c=new Cirlce(5.4);
